@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eugene_zip/static/css/main.e6c13ad2.css",
-    "main.js": "/eugene_zip/static/js/main.c7aa80c3.js",
-    "static/js/453.1407b060.chunk.js": "/eugene_zip/static/js/453.1407b060.chunk.js",
-    "index.html": "/eugene_zip/index.html",
-    "main.e6c13ad2.css.map": "/eugene_zip/static/css/main.e6c13ad2.css.map",
-    "main.c7aa80c3.js.map": "/eugene_zip/static/js/main.c7aa80c3.js.map",
-    "453.1407b060.chunk.js.map": "/eugene_zip/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/EUGENE_ZIP/static/css/main.e6c13ad2.css",
+    "main.js": "/EUGENE_ZIP/static/js/main.b9338ae8.js",
+    "static/js/453.1407b060.chunk.js": "/EUGENE_ZIP/static/js/453.1407b060.chunk.js",
+    "index.html": "/EUGENE_ZIP/index.html",
+    "main.e6c13ad2.css.map": "/EUGENE_ZIP/static/css/main.e6c13ad2.css.map",
+    "main.b9338ae8.js.map": "/EUGENE_ZIP/static/js/main.b9338ae8.js.map",
+    "453.1407b060.chunk.js.map": "/EUGENE_ZIP/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c7aa80c3.js"
+    "static/js/main.b9338ae8.js"
   ]
 }
